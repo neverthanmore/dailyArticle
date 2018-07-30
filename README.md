@@ -1,5 +1,10 @@
 # dailyArticle
 
+### July 30, 2018
+
+- [A Tutorial Introduction to Kubernetes](http://okigiveup.net/a-tutorial-introduction-to-kubernetes/)
+- [Let's Write A Module Bundler](https://adamisntdead.com/lets-write-a-module-bundler/)
+
 ### July 23, 2018
 
 - [Keeping Node.js Fast: Tools, Techniques, And Tips For Making High-Performance Node.js Servers](https://www.smashingmagazine.com/2018/06/nodejs-tools-techniques-performance-servers/)
