@@ -1,5 +1,9 @@
 # dailyArticle
 
+### August 3, 2018
+
+- [系统设计入门](https://github.com/donnemartin/system-design-primer/blob/master/README-zh-Hans.md)
+
 ### July 30, 2018
 
 - [A Tutorial Introduction to Kubernetes](http://okigiveup.net/a-tutorial-introduction-to-kubernetes/)
