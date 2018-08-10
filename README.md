@@ -1,5 +1,11 @@
 # dailyArticle
 
+### August 10, 2018
+
+- [HOW IMAGE OPTIMISATION DECREASED MY WEBSITE'S PAGE WEIGHT BY 62%](https://freshman.tech/image-optimisation/)
+
+- [I’m harvesting credit card numbers and passwords from your site. Here’s how.](https://hackernoon.com/im-harvesting-credit-card-numbers-and-passwords-from-your-site-here-s-how-9a8cb347c5b5)
+
 ### August 3, 2018
 
 - [系统设计入门](https://github.com/donnemartin/system-design-primer/blob/master/README-zh-Hans.md)
