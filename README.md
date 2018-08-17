@@ -1,5 +1,9 @@
 # dailyArticle
 
+### August 17, 2018
+
+- [A new security header: Feature Policy](https://scotthelme.co.uk/a-new-security-header-feature-policy/)
+
 ### August 10, 2018
 
 - [HOW IMAGE OPTIMISATION DECREASED MY WEBSITE'S PAGE WEIGHT BY 62%](https://freshman.tech/image-optimisation/)
