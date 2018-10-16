@@ -1,5 +1,8 @@
 # dailyArticle
 
+### October 16, 2018
+- [Passive event listeners](https://github.com/WICG/EventListenerOptions/blob/gh-pages/explainer.md)
+
 ### August 17, 2018
 
 - [A new security header: Feature Policy](https://scotthelme.co.uk/a-new-security-header-feature-policy/)
