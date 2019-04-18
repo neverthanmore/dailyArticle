@@ -3,6 +3,9 @@
 ### April 18,2018
 
 - [科普文：如何伪造和获取用户真实 IP ？](https://www.yuque.com/egg/nodejs/coopsc)
+- [使用 RAIL 模型评估性能](https://developers.google.com/web/fundamentals/performance/rail)
+- [深入理解IEEE754的64位双精度](https://www.boatsky.com/blog/26)
+- [关键渲染路径](https://developers.google.com/web/fundamentals/performance/critical-rendering-path/)
 
 ### October 16, 2018
 
