@@ -1,5 +1,9 @@
 # dailyArticle
 
+### April 19,2018
+
+- [Asynchronous inline scripts via data: URIs](http://www.phpied.com/asynchronous-inline-scripts-via-data-urls/)
+
 ### April 18,2018
 
 - [科普文：如何伪造和获取用户真实 IP ？](https://www.yuque.com/egg/nodejs/coopsc)
