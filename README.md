@@ -1,10 +1,13 @@
 # dailyArticle
 
-### April 19,2018
+### July 2,2019
+- [A Beginner's Guide to Lerna with Yarn Workspaces](https://medium.com/@jsilvax/a-workflow-guide-for-lerna-with-yarn-workspaces-60f97481149d)
+
+### April 19,2019
 
 - [Asynchronous inline scripts via data: URIs](http://www.phpied.com/asynchronous-inline-scripts-via-data-urls/)
 
-### April 18,2018
+### April 18,2019
 
 - [科普文：如何伪造和获取用户真实 IP ？](https://www.yuque.com/egg/nodejs/coopsc)
 - [使用 RAIL 模型评估性能](https://developers.google.com/web/fundamentals/performance/rail)
