@@ -1,6 +1,11 @@
 # dailyArticle
 
+### August 6,2019
+
+- [https://v8.dev/blog/cost-of-javascript-2019](https://v8.dev/blog/cost-of-javascript-2019)
+
 ### July 2,2019
+
 - [A Beginner's Guide to Lerna with Yarn Workspaces](https://medium.com/@jsilvax/a-workflow-guide-for-lerna-with-yarn-workspaces-60f97481149d)
 
 ### April 19,2019
@@ -11,7 +16,7 @@
 
 - [科普文：如何伪造和获取用户真实 IP ？](https://www.yuque.com/egg/nodejs/coopsc)
 - [使用 RAIL 模型评估性能](https://developers.google.com/web/fundamentals/performance/rail)
-- [深入理解IEEE754的64位双精度](https://www.boatsky.com/blog/26)
+- [深入理解 IEEE754 的 64 位双精度](https://www.boatsky.com/blog/26)
 - [关键渲染路径](https://developers.google.com/web/fundamentals/performance/critical-rendering-path/)
 
 ### October 16, 2018
@@ -40,7 +45,7 @@
 ### July 23, 2018
 
 - [Keeping Node.js Fast: Tools, Techniques, And Tips For Making High-Performance Node.js Servers](https://www.smashingmagazine.com/2018/06/nodejs-tools-techniques-performance-servers/)
-- [深入理解flutter的编译原理与优化](https://www.yuque.com/xytech/flutter/sh4fbm)
+- [深入理解 flutter 的编译原理与优化](https://www.yuque.com/xytech/flutter/sh4fbm)
 
 ### July 13, 2018
 
